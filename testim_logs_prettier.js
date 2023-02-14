@@ -1,4 +1,4 @@
-//testim_logs.js
+//testim_logs_prettier.js
 
 //run: 
 //node testim_logs_prettier.js <full path to testim log json>
